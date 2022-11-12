@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Jose Danilo
 #### I am an Information Technology Engineering Student and Senior Photographer.
-![I am an Information Technology Engineering Student and Senior Photographer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I have always thought that the knowledge acquired in the classroom, should not only stay in the classroom or in our minds, so I created this profile to share the little or much knowledge that others can serve them, Lofi lover of photography and music.
 
